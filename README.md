@@ -113,5 +113,4 @@ base-crud是一个通用的基于mybatis、tkmapper的一个数据库增删改�
 
 }
 
-# bse-crud
 # base-spring-crud
