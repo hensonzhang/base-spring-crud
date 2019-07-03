@@ -31,7 +31,7 @@ base-crud是一个通用的基于mybatis、tkmapper的一个数据库增删改�
     public interface DemoService extends ServiceApi<DemoDTO> {
     }
 
-4、在你的业务员实现类实现
+4、在你的业务实现类实现
 
     @Service
     public class DemoServiceImpl extends 
