@@ -27,7 +27,7 @@
         <!-- mysql connector -->
         <mysql.jdbc.version>5.1.38</mysql.jdbc.version>
         <!-- google tools -->
-        <google.guava.version>25.1-jre</google.guava.version>
+        <google.guava.version>29.0-jre</google.guava.version>
         <!-- log日志JAR版本 -->
         <log4j.version>2.9.0</log4j.version>
         <sl4j.version>1.7.25</sl4j.version>
