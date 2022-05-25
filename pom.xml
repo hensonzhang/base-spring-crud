@@ -14,7 +14,7 @@
         <jdk.version>1.8</jdk.version>
         <junit.version>4.12</junit.version>
         <!-- srping version -->
-        <org.springframework.version>4.3.20.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.22.RELEASE</org.springframework.version>
         <org.springframework.spring.asm.version>3.1.4.RELEASE</org.springframework.spring.asm.version>
         <!-- mybatis -->
         <mybatis.version>3.4.5</mybatis.version>
