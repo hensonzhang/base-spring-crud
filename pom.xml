@@ -25,7 +25,7 @@
         <!-- db for alibaba Druid -->
         <alibaba.druid.version>1.1.12</alibaba.druid.version>
         <!-- mysql connector -->
-        <mysql.jdbc.version>5.1.38</mysql.jdbc.version>
+        <mysql.jdbc.version>8.0.28</mysql.jdbc.version>
         <!-- google tools -->
         <google.guava.version>25.1-jre</google.guava.version>
         <!-- log日志JAR版本 -->
